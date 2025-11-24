@@ -1,0 +1,1 @@
+Saad GitHubi kasutada oma projektide versioonihalduseks ja varundamiseks ning koodi jagamiseks teistega. Lisaks võimaldab see Sul mugavalt teha koostööd meeskonnakaaslastega ja õppida teiste arendajate näidete kaudu.
